@@ -1,3 +1,2 @@
-# gh-deployment-workflow
-Project URL: https://github.com/SonVoo/gh-deployment-workflow
-
+#gh-deployment-workflow
+https://roadmap.sh/projects/github-actions-deployment-workflow
